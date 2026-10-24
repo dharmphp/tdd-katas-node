@@ -1,0 +1,14 @@
+{
+  "name": "tdd-katas-node",
+  "version": "0.1.0",
+  "description": "Classic TDD katas in plain Node.js using node:test",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "test:watch": "node --test --watch"
+  },
+  "engines": { "node": ">=20" },
+  "author": "Dharmesh Patel",
+  "license": "MIT"
+}
